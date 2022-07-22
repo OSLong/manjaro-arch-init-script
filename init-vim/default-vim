@@ -1,0 +1,5 @@
+syntax on
+
+set confirm
+set ruler
+
